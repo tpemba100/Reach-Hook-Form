@@ -1,4 +1,4 @@
-# Student-Group
+# React Hook Form
 
 ### Description
 This is an application that can help students manage members in their group. The students can be added directly from a form container and displayed right below it. All the data is stored in MySQL Database or PHP MyAdmin. 
@@ -12,8 +12,10 @@ Developed a full stack application that manages student database using React and
 - Delete Employee information
 - Update Employee information
 
-### MySQL Database
 ![alt text](https://github.com/tpemba100/React-Hook-Form/blob/master/img/1.png?raw=true)
+![alt text](https://github.com/tpemba100/React-Hook-Form/blob/master/img/2.png?raw=true)
+![alt text](https://github.com/tpemba100/React-Hook-Form/blob/master/img/3.png?raw=true)
+
 
 ### Technologies
 - React (Frontend View Framework)
